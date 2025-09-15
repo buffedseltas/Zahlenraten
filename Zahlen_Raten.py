@@ -1,7 +1,7 @@
 
 import random
 
-print("hey du otto, ich soll ein Nummer rate spiel ballern.")
+print("heyo, ich soll ein Nummer rate spiel ballern.")
 print("ich denk mir jetzt eine zahl zwichen 1 und 100 aus rate mal welche zahl")
 print("ich hab jetzt git")
 
@@ -25,7 +25,7 @@ while True:
         versuche = 3
         break
     else:
-        print("dummer nuttensohn 1, 2 oder 3 das wird wohl nicht so schwer sein")
+        print("schon nicht so gut 1, 2 oder 3 das wird wohl nicht so schwer sein")
 
 print(f"Du hast also {versuche} Versuche!")
 while versuche > 0:
@@ -40,7 +40,7 @@ while versuche > 0:
         print(f"Yeah BITSCH {user} war wirklich meine zahl und du hattest übrigens noch {versuche} übrig.")
         break
 if versuche == 0:
-    print("du bist scheiße")
+    print("echt schwach")
 else:
     print("sei stolz eine random zahl erraten zu haben")
 #darf ich so jetzt mal version control updaten
