@@ -3,6 +3,7 @@ import random
 
 print("hey du otto, ich soll ein Nummer rate spiel ballern.")
 print("ich denk mir jetzt eine zahl zwichen 1 und 100 aus rate mal welche zahl")
+print("ich hab jetzt git")
 
 number = random.randint(1, 100)
 versuche = 0
@@ -42,3 +43,4 @@ if versuche == 0:
     print("du bist scheiße")
 else:
     print("sei stolz eine random zahl erraten zu haben")
+#darf ich so jetzt mal version control updaten
